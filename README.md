@@ -1,7 +1,9 @@
-### Hi there 👋
-
+༼ ▀̿̿Ĺ̯̿̿▀̿ ̿༽ HELLO 👋
+<br>
+<br> 
+[![GitHub Streak](https://streak-stats.demolab.com?user=sssh199x&theme=dark&card_width=600)](https://git.io/streak-stats)
 <!--
-**sssh199x/sssh199x** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Soul-Xettri/Soul-Xettri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
