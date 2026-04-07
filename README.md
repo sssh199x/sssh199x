@@ -111,7 +111,7 @@ Each week has a **tutorial** and **workshop** repo with numbered TODO stubs, inl
 ## GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sssh199x&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats-two-dusky-39.vercel.app/api?username=sssh199x&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
 </div>
 
 <div align="center">
@@ -119,7 +119,7 @@ Each week has a **tutorial** and **workshop** repo with numbered TODO stubs, inl
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sssh199x&show_icons=true&theme=tokyonight&hide_border=true&layout=compact&langs_count=8" alt="Most Used Languages" />
+  <img src="https://github-readme-stats-two-dusky-39.vercel.app/api/top-langs?username=sssh199x&show_icons=true&theme=tokyonight&hide_border=true&layout=compact&langs_count=8" alt="Most Used Languages" />
 </div>
 
 ---
