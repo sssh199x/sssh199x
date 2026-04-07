@@ -1,4 +1,4 @@
-# <div align="center">Sandesh Hamal Thakuri</div>
+<h1 align="center">Sandesh Hamal Thakuri</h1>
 
 <div align="center">
   <strong>Full Stack Engineer | Computing Tutor | AWS Verified Educator</strong>
